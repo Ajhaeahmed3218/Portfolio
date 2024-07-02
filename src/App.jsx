@@ -2,15 +2,18 @@
 
 import './App.css'
 import Header from './Components/Header/Header'
+import Home from './Components/Home/Home'
 
 function App() {
- 
+
 
   return (
     <>
-      <Header/>
-      <h1></h1>
-      
+      <Header />
+      <main className='main'>
+        <Home />
+      </main>
+
     </>
   )
 }
