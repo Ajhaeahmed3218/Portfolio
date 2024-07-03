@@ -58,8 +58,8 @@ const Data = () => {
                 Web Developer
             </h3>
             <p className="home__description">I’m a creative frontend developer based in Bangladesh and I’m very passionate and dedicated to my work</p>
-            <a href="" className="button button--flex hello-button">
-                Say Hello
+            <button href="#contact" className="button button--flex hello-button">
+                Send Message
                 <svg
                     className="button__icon"
                     xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +77,7 @@ const Data = () => {
                         fill="var(--container-color)"
                     ></path>
                 </svg>
-            </a>
+            </button>
         </div>
     );
 };
