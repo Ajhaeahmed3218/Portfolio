@@ -1,4 +1,5 @@
 import Data from "./Data";
+import ScrpllDown from "./ScrpllDown";
 import Social from "./Social";
 import "./home.css"
 
@@ -13,8 +14,10 @@ const Home = () => {
 
                     <div className="home__img"></div>
 
-                    <Data /> 
+                    <Data />
                 </div>
+                <ScrpllDown />
+
             </div>
         </div>
     );
