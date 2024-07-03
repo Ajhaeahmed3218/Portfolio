@@ -4,6 +4,7 @@ import './App.css'
 import About from './Components/About/About'
 import Header from './Components/Header/Header'
 import Home from './Components/Home/Home'
+import Secvices from './Components/Secvices/Secvices'
 import Skills from './Components/Skills/Skills'
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <Home />
         <About />
         <Skills />
+        <Secvices /> 
       </main>
 
     </>

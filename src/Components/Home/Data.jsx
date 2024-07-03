@@ -57,7 +57,7 @@ const Data = () => {
             <h3 className="home__subtitle">
                 Web Developer
             </h3>
-            <p className="home__description">I’m a creative frontend developer based in Bangladesh and I’m very passionate and dedicate to my work</p>
+            <p className="home__description">I’m a creative frontend developer based in Bangladesh and I’m very passionate and dedicated to my work</p>
             <a href="" className="button button--flex hello-button">
                 Say Hello
                 <svg
