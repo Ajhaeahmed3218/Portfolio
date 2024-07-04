@@ -33,7 +33,7 @@ const Footer = () => {
                         <i className="uil uil-facebook"></i>
                     </a>
 
-                    <a href="www.linkedin.com/in/ajhar-ahmed-chowdhury" className="footer__social-link" target='_blank'>
+                    <a href="http://www.linkedin.com/in/ajhar-ahmed-chowdhury" className="footer__social-link" target='_blank'>
                         <i className="uil uil-linkedin"></i>
                     </a>
 

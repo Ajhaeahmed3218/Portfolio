@@ -102,7 +102,7 @@ const Secvices = () => {
                         <i className="uil uil-edit services__icon"></i>
                         <h3 className="services__title">Visual <br /> Designer</h3>
                     </div>
-                    <span className="services__button">View More <i className="uil uil-arrow-right services__button-icon"></i></span>
+                    <span className="services__button">not yet <i className="uil uil-arrow-right services__button-icon"></i></span>
 
                     <div className="services__modal">
                         
