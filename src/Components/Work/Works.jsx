@@ -68,11 +68,11 @@ const Works = () => {
                                     <svg className="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>
                                     <img className="card__thumb" src={AboutImg} alt="" />
                                     <div className="card__header-text">
-                                        <h3 className="card__title">kim Cattrall</h3>
+                                        <h3 className="card__title">P-Ticket</h3>
                                         <span className="card__status">3 hours ago</span>
                                     </div>
                                 </div>
-                                <p className="card__description">P-Ticket P-Ticket is a sleek web platform designed for hassle-free bus ticket bookings.  <br /><span ><b><a target="_blank" href="https://ajhaeahmed3218.github.io/Assignment-Five/">Visit</a></b></span></p>
+                                <p className="card__description"> P-Ticket is a sleek web platform designed for hassle-free bus ticket bookings.  <br /><span ><b><a target="_blank" href="https://ajhaeahmed3218.github.io/Assignment-Five/">Visit</a></b></span></p>
                             </div>
                         </a>
                     </li>
